@@ -56,9 +56,4 @@
 
 ---
 
-### 📫 Let's Connect!
-- 🔗 [Portfolio](https://tuportfolio.com)
-- ✉️ [Email](mailto:tucorreo@example.com)
-- 📝 [Blog](https://tublog.com)
-
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=valenvivaldi.valenvivaldi)](https://github.com/valenvivaldi)
