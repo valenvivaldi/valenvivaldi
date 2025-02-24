@@ -3,8 +3,8 @@
 🚀 Full Stack Developer | 🎨 Creative Coder | 🐧 Open Source Enthusiast
 
 [![GitHub Followers](https://img.shields.io/github/followers/valenvivaldi?label=Follow%20Me&style=social)](https://github.com/valenvivaldi)
-[![Twitter Follow](https://img.shields.io/twitter/follow/valen_vivaldi?style=social)](https://twitter.com/valen_vivaldi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil)
+[![Twitter Follow](https://img.shields.io/twitter/follow/valen_vivaldi?style=social)](https://twitter.com/valevivaldi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-vivaldi-a786a1139/)
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -15,6 +15,11 @@
     align="center"
   />
 </a>
+
+---
+
+### 😄 Daily Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 ---
 
@@ -48,11 +53,6 @@
     align="right"
   />
 </a>
-
----
-
-### 😄 Daily Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder)
 
 ---
 
